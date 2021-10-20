@@ -19,7 +19,11 @@ To create and save the figures, run:
 
 > python plotResults.py
 
-The figures can then be found in the ./results/ folder.
+The figures can then be found in
+```bash
+.
+├── results/
+```
 
 ### Choice of the Exploration step
 
